@@ -16,7 +16,7 @@ chrono = "0.4.40"
 clap = { version = "4.5", features = ["derive"] }
 dotenv = "0.15"
 hex = "0.4"
-hmac = "0.12"
+hmac = "0.13"
 jsonwebtoken = "9.3"
 octocrab = "0.44"
 regex = "1.11"
